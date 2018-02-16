@@ -8,4 +8,19 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="textview_generic">
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="textview_title_item" parent="textview_generic">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/dimen_textsize_title_item</item>
+    </style>
+
+    <style name="textview_description_item" parent="textview_generic">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">@dimen/dimen_textsize_description_item</item>
+    </style>
+
 </resources>

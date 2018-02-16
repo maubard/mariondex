@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">mariondex</string>
+    <string name="string_subheader_activity">Recycler view with two-lines sample</string>
+    <string name="contentDescriptionAvatar">This is a picture with avatar on left</string>
+    <string name="contentDescriptionIcon">This is a picture which represent a gray cloud</string>
 </resources>
