@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_icon_detail">40dp</dimen>
+    <dimen name="dimen_textsize_subheader">14sp</dimen>
+    <dimen name="dimen_height_subheader">48dp</dimen>
+    <dimen name="dimen_margin_left_subheader">16dp</dimen>
+
+    <dimen name="dimen_margin_avatar">16dp</dimen>
+
+    <dimen name="dimen_margin_left_title_item">16dp</dimen>
+    <dimen name="dimen_margin_left_description_item">16dp</dimen>
+
+    <dimen name="dimen_textsize_title_item">16sp</dimen>
+    <dimen name="dimen_textsize_description_item">16sp</dimen>
+    <dimen name="dimen_margin_icon">16dp</dimen>
+    <dimen name="dimen_padding_icon">8dp</dimen>
+    <dimen name="dimen_margin_top_description_item">0dp</dimen>
+</resources>
