@@ -3,4 +3,7 @@
     <string name="string_subheader_activity">Recycler view with two-lines sample</string>
     <string name="contentDescriptionAvatar">This is a picture with avatar on left</string>
     <string name="contentDescriptionIcon">This is a picture which represent a gray cloud</string>
+
+    <!-- logic: error management -->
+    <string name="warning_dont_instance_this_object">You cannot instantiate this object here</string>
 </resources>
